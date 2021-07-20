@@ -12,7 +12,7 @@
     "apollo-boost": "^0.4.4",
     "graphql": "^14.5.4",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-infinite-scroll": "^1.0.6"
   },
   "devDependencies": {
